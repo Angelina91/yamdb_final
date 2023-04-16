@@ -9,7 +9,7 @@ services:
       - ./.env
   web:
     build:
-      context: angelina91/api_yamdb
+      context: ../api_yamdb
       dockerfile: Dockerfile
     restart: always
     volumes:
