@@ -11,7 +11,7 @@ YaMDb - программный интерфейс для социальной с
 ## :dash: Установка и запуск проекта
 
 ### :dancers: Клонирование репозитория
-git clone [SSH](git@github.com:Angelina91/infra_sp2.git)
+git clone [SSH](git@github.com:Angelina91/yamdb_final.git)
 
 ### :whale: Запуск контейнеров
 Из директории infra/
