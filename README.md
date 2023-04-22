@@ -1,6 +1,6 @@
 # yamdb_final
 
-https://github.com/Angelina91/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+[status workflow](https://github.com/Angelina91/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 <!-- ![status workflow](https://github.com/github/yamdb/actions/workflows/yamdb_workflow.yml/badge.svg) -->
 
