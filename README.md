@@ -1,6 +1,8 @@
 # yamdb_final
 
-![status workflow](https://github.com/github/yamdb/actions/workflows/yamdb_workflow.yml/badge.svg)
+https://github.com/Angelina91/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+
+<!-- ![status workflow](https://github.com/github/yamdb/actions/workflows/yamdb_workflow.yml/badge.svg) -->
 
 # Краткое описание проекта
 YaMDb - программный интерфейс для социальной сети.
