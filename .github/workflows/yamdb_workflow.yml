@@ -68,7 +68,7 @@ jobs:
             echo DB_PORT=${{ secrets.DB_PORT }} >> .env
             sudo docker pull angelina91/yamdb_final:latest
             #sudo docker-compose up -d
-            sudo docker-compose
+            #sudo docker-compose
             sudo docker-compose up -d
 
             # sudo docker pull angelina91/yamdb_final
