@@ -2,8 +2,6 @@
 
 ![status workflow](https://github.com/Angelina91/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
-<!-- ![status workflow](https://github.com/github/yamdb/actions/workflows/yamdb_workflow.yml/badge.svg) -->
-
 # Краткое описание проекта
 YaMDb - программный интерфейс для социальной сети.
 Он позволяет неравнодушным творческим людям обсудить заинтересовавшие их произведения: оставить отзывы к книгам, фильмам и т.д. и прокоментировать уже существующие отзывы 
@@ -14,10 +12,11 @@ YaMDb - программный интерфейс для социальной с
 git clone [SSH](git@github.com:Angelina91/yamdb_final.git)
 
 ### :whale: Запуск контейнеров
-Из директории infra/
-выполнить команду
-docker-compose up -d --build
-
+...
+    Из директории infra/
+    выполнить команду
+    docker-compose up -d --build
+...
 ### :feet: Выполнить миграции
 docker-compose exec web python manage.py migrate
 
