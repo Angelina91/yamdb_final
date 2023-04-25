@@ -57,6 +57,12 @@ Redoc,
 Django,
 djangorestframework_
 
+## путь до ВМ
+
+```bash
+ssh angelina91@84.201.158.17
+```
+
 ## Автор
 
 [Angelina91](https://github.com/Angelina91)
