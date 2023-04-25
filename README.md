@@ -8,16 +8,12 @@ YaMDb - программный интерфейс для социальной с
 
 ## Документация
 
-```bash
-[Redoc](http://84.201.158.17/redoc/)
-```
+[redoc](http://84.201.158.17/redoc/)
 ## :dash: Установка и запуск проекта
 
 ### :dancers: Клонирование репозитория
 
-```bash
-git clone ![SSH](git@github.com:Angelina91/yamdb_final.git)
-```
+git clone [SSH](git@github.com:Angelina91/yamdb_final.git)
 
 ### :whale: Запуск контейнеров
 
@@ -53,14 +49,14 @@ docker-compose exec web python manage.py loaddata ../infra/fixtures.json
 
 ## :dizzy: Стек
 
-_Python 3.7
+_Python,
 Rest Api,
 Docker,
 PostgreSQL,
-Redoc_
-Django==3.2
-djangorestframework==3.12.4
+Redoc,
+Django,
+djangorestframework_
 
 ## Автор
 
-![Angelina91](https://github.com/Angelina91)
+[Angelina91](https://github.com/Angelina91)
