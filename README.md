@@ -57,7 +57,7 @@ Redoc,
 Django,
 djangorestframework_
 
-## путь до ВМ
+## Путь до ВМ
 
 ```bash
 ssh angelina91@84.201.158.17
