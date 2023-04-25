@@ -12,11 +12,11 @@ YaMDb - программный интерфейс для социальной с
 git clone [SSH](git@github.com:Angelina91/yamdb_final.git)
 
 ### :whale: Запуск контейнеров
-...
+```bash
     Из директории infra/
     выполнить команду
     docker-compose up -d --build
-...
+```
 ### :feet: Выполнить миграции
 docker-compose exec web python manage.py migrate
 
